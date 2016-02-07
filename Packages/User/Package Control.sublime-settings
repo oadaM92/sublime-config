@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Color Highlighter",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"Package Control",
+		"Project Manager",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"TortoiseSVN"
+	]
+}
