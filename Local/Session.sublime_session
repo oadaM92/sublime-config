@@ -1,9 +1,16 @@
 {
 	"folder_history":
 	[
+		"/E/file/电子书/JavaScript设计模式",
+		"/E/file/ykq/wap",
+		"/E/file/ykq/wap/v3Templates/timeout",
+		"/E/file/ykq",
+		"/E/file/repo/zepto",
+		"/C/Users/oadaM92/Desktop/zepto",
+		"/E/file/repo",
+		"/E/file/test",
 		"/E/file/ykq/程序更新",
 		"/E/file/ykq/web",
-		"/E/file/ykq/wap",
 		"/E/file/ykq/guanli",
 		"/D/ykq1/env",
 		"/D/ykq1",
@@ -16,12 +23,12 @@
 		"/C/Users/Administrator/Desktop/test",
 		"/D/ykq1/guanli/images"
 	],
-	"last_version": 3083,
-	"last_window_id": 43,
+	"last_version": 3103,
+	"last_window_id": 58,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 631.0,
+		"new_window_height": 652.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -52,33 +59,77 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 92.0,
-				"last_filter": "add project",
+				"height": 137.0,
+				"last_filter": "install paca",
 				"selected_items":
 				[
 					[
-						"add project",
-						"Project Manager: Add Project"
+						"install paca",
+						"Package Control: Install Package"
 					],
 					[
-						"preferences",
-						"Preferences: Settings - Default"
-					],
-					[
-						"jum",
-						"BracketHighlighter: Jump to Left Bracket"
+						"removepack",
+						"Package Control: Remove Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"preferencessetting",
-						"Preferences: Settings - Default"
-					],
-					[
 						"list",
 						"Package Control: List Packages"
+					],
+					[
+						"sni",
+						"Snippet: html"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"snipper",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"editpr",
+						"Project: Edit Project"
+					],
+					[
+						"removepca",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove package",
+						"Package Control: Remove Package"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					],
+					[
+						"edit project",
+						"Project: Edit Project"
+					],
+					[
+						"add project",
+						"Project Manager: Add Project"
+					],
+					[
+						"jum",
+						"BracketHighlighter: Jump to Left Bracket"
+					],
+					[
+						"preferencessetting",
+						"Preferences: Settings - Default"
 					],
 					[
 						"edit",
@@ -103,10 +154,6 @@
 					[
 						"package list",
 						"Package Control: List Packages"
-					],
-					[
-						"removepack",
-						"Package Control: Remove Package"
 					]
 				],
 				"width": 510.0
@@ -116,6 +163,8 @@
 				"height": 126.0,
 				"history":
 				[
+					"ls",
+					"ipconfig",
 					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
@@ -130,6 +179,43 @@
 			},
 			"file_history":
 			[
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/demo/basket.full.min.js",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/README.md",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/demo/helloworld.js",
+				"/E/file/repo/my-projects/01.19列表页地图模式/index.html",
+				"/E/file/repo/zepto/src/zepto.js",
+				"/E/file/repo/zepto/oadaM92/test.html",
+				"/E/file/repo/zepto/oadaM92/frame.js",
+				"/E/file/repo/my-projects/01.19calendar/calendar/js/zepto.js",
+				"/E/file/ykq/wap/static_wap/js/lib/YBase.js",
+				"/E/file/repo/zepto/src/selector.js",
+				"/C/Users/oadaM92/Desktop/QQ截图20160309003845.png",
+				"/E/file/repo/zepto/README.md",
+				"/E/file/index.html",
+				"/C/Users/oadaM92/Desktop/zepto/zepto.js",
+				"/E/file/repo/ScrollLoading/ScrollLoading.js",
+				"/E/file/repo/my-projects/01.19(yc)可视化专题生成器/可视化专题生成器/js/index.js",
+				"/E/file/repo/my-projects/01.19ninja/readme.txt",
+				"/E/software/XAMMP/apache/conf/extra/httpd-vhosts.conf",
+				"/E/file/repo/my-projects/leecode.html",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/detect.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/assets.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/ajax.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/fx.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/touch.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/zepto.js",
+				"/E/file/test/index.html",
+				"/E/file/test/json.json",
+				"/E/file/test/p.html",
+				"/E/file/ykq/wap/static_wap/js/page/message/message.js",
+				"/E/file/ykq/wap/css/source/all-message.css",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/wap.sublime-project",
+				"/E/file/ykq/wap/protected/views/UIcomponents/message.html",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/TortoiseSVN.sublime-settings",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/Can I Use/Can I Use.sublime-settings",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Can I Use.sublime-settings",
+				"/C/Users/oadaM92/Desktop/sdf.js",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/ykq1/env/localEnvConfig.php",
 				"/D/ykq1/guanli/protected/modules/service/views/operator/privilege/index.php",
 				"/D/ykq1/guanli/protected/modules/service/assets/js/edit.js",
@@ -164,7 +250,7 @@
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -180,6 +266,42 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"peform",
+					"XMLHttpRequest ",
+					"defaultExpiration",
+					"handle",
+					"settimeout",
+					"      \n",
+					"zepto.fragment",
+					"containers",
+					"dasherize",
+					"likeArray",
+					"propMap",
+					"uniq",
+					"camelize",
+					"simpleSelectorRE",
+					"readyRE",
+					"adjacencyOperators",
+					"methodAttributes",
+					"elementDisplay",
+					"classList",
+					"key",
+					"zepto.qsa",
+					"zepto.Z",
+					"zept.Z = ",
+					"isZ",
+					"this.foreach",
+					"zepto.matches",
+					"zepto.Z(",
+					"can be overridden",
+					"zepto.matches",
+					"new Z(",
+					"zepto.Z(",
+					"classCache",
+					"file",
+					"e",
+					"remove",
+					"	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n",
 					"font",
 					"li",
 					"			<li>\n				<div><img src=\"images/chenzz.jpg\" height=\"196\" width=\"196\"></div>\n				<div>\n					<h3>陈作智</h3>\n					<h4>创始人兼<em>CEO</em></h4>\n					<p>硕士毕业，创业成瘾，运筹帷幄，任亚信思华科技有限公司副总裁，参与研发亚信大容量电子邮件系统(AIMC)，创造1亿收入。<p>\n				</div>\n			</li>\n",
@@ -250,6 +372,10 @@
 				"height": 63.0
 			},
 			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 311.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -266,6 +392,30 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"zepto.js",
+						"zepto\\src\\zepto.js"
+					],
+					[
+						"js/index.js",
+						"my-projects\\01.19(yc)可视化专题生成器\\可视化专题生成器\\js\\index.js"
+					],
+					[
+						"",
+						"json.json"
+					],
+					[
+						"message.js",
+						"static_wap\\js\\page\\message\\message.js"
+					],
+					[
+						"message.css",
+						"css\\source\\all-message.css"
+					],
+					[
+						"message.html",
+						"protected\\views\\UIcomponents\\message.html"
+					],
 					[
 						"edit.js",
 						"protected\\modules\\service\\assets\\js\\edit.js"
@@ -287,16 +437,8 @@
 						"protected\\views\\cooperation\\thfamily.html"
 					],
 					[
-						"message.js",
-						"static_wap\\js\\page\\message\\message.js"
-					],
-					[
 						"thfamily.html",
 						"protected\\views\\cooperation\\thfamily.html"
-					],
-					[
-						"",
-						"protected\\views\\cooperation\\thsuccess.html"
 					],
 					[
 						"thsucce",
@@ -387,13 +529,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 144.0,
+			"side_bar_width": 214.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 995.0
+		"new_window_width": 1103.0
 	},
 	"windows":
 	[
@@ -422,6 +564,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/E/file/repo/oadaM92-blog/README.md",
+					"settings":
+					{
+						"buffer_size": 123,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -430,25 +580,81 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 272.0,
-				"last_filter": "",
+				"height": 354.0,
+				"last_filter": "gitlog",
 				"selected_items":
 				[
 					[
-						"install",
-						"Package Control: Install Package"
+						"gitlog",
+						"Git: Log All"
 					],
 					[
-						"removepca",
-						"Package Control: Remove Package"
+						"git status",
+						"Git: Status"
+					],
+					[
+						"git push ",
+						"Git: Push"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git:add",
+						"Git: Add All"
+					],
+					[
+						"listpack",
+						"Package Control: List Packages"
+					],
+					[
+						"install paca",
+						"Package Control: Install Package"
 					],
 					[
 						"removepack",
 						"Package Control: Remove Package"
 					],
 					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
 						"list",
 						"Package Control: List Packages"
+					],
+					[
+						"sni",
+						"Snippet: html"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"snipper",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"editpr",
+						"Project: Edit Project"
+					],
+					[
+						"removepca",
+						"Package Control: Remove Package"
 					],
 					[
 						"remove package",
@@ -510,6 +716,8 @@
 				"height": 126.0,
 				"history":
 				[
+					"ls",
+					"ipconfig",
 					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 				]
 			},
@@ -524,17 +732,57 @@
 			},
 			"expanded_folders":
 			[
-				"/E/file/ykq/wap"
+				"/E/file/repo",
+				"/E/file/repo/oadaM92-blog",
+				"/E/file/repo/oadaM92-blog/blogs",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-21-setTimout(0)",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析"
 			],
 			"file_history":
 			[
-				"/E/file/ykq/wap/protected/views/UIcomponents/message.html",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-21-setTimout(0)/README.md",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/README.md",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/demo/helloworld.js",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/demo/helloworld2.js",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/demo/index.html",
+				"/E/file/repo/oadaM92-blog/README.md",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/basket.js",
+				"/E/file/repo/oadaM92-blog/blogs/2016-03-31-basket.js源码分析/demo/basket.full.min.js",
+				"/E/file/repo/my-projects/01.19列表页地图模式/index.html",
+				"/E/file/repo/zepto/src/zepto.js",
+				"/E/file/repo/zepto/oadaM92/test.html",
+				"/E/file/repo/zepto/oadaM92/frame.js",
+				"/E/file/repo/my-projects/01.19calendar/calendar/js/zepto.js",
+				"/E/file/ykq/wap/static_wap/js/lib/YBase.js",
+				"/E/file/repo/zepto/src/selector.js",
+				"/C/Users/oadaM92/Desktop/QQ截图20160309003845.png",
+				"/E/file/repo/zepto/README.md",
+				"/E/file/index.html",
+				"/C/Users/oadaM92/Desktop/zepto/zepto.js",
+				"/E/file/repo/ScrollLoading/ScrollLoading.js",
+				"/E/file/repo/my-projects/01.19(yc)可视化专题生成器/可视化专题生成器/js/index.js",
+				"/E/file/repo/my-projects/01.19ninja/readme.txt",
+				"/E/software/XAMMP/apache/conf/extra/httpd-vhosts.conf",
+				"/E/file/repo/my-projects/leecode.html",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/detect.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/assets.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/ajax.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/fx.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/touch.js",
+				"/C/Users/oadaM92/Desktop/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/zepto-1d4217e2d91c7269ae25286ae7ea12b3be8024ef/src/zepto.js",
+				"/E/file/test/index.html",
+				"/E/file/test/json.json",
+				"/E/file/test/p.html",
 				"/E/file/ykq/wap/static_wap/js/page/message/message.js",
+				"/E/file/ykq/wap/css/source/all-message.css",
+				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/wap.sublime-project",
+				"/E/file/ykq/wap/protected/views/UIcomponents/message.html",
 				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/TortoiseSVN.sublime-settings",
 				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/Can I Use/Can I Use.sublime-settings",
 				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Can I Use.sublime-settings",
 				"/C/Users/oadaM92/Desktop/sdf.js",
-				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/wap.sublime-project",
 				"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/ykq1/env/localEnvConfig.php",
 				"/D/ykq1/guanli/protected/modules/service/views/operator/privilege/index.php",
@@ -570,7 +818,7 @@
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -586,6 +834,42 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"peform",
+					"XMLHttpRequest ",
+					"defaultExpiration",
+					"handle",
+					"settimeout",
+					"      \n",
+					"zepto.fragment",
+					"containers",
+					"dasherize",
+					"likeArray",
+					"propMap",
+					"uniq",
+					"camelize",
+					"simpleSelectorRE",
+					"readyRE",
+					"adjacencyOperators",
+					"methodAttributes",
+					"elementDisplay",
+					"classList",
+					"key",
+					"zepto.qsa",
+					"zepto.Z",
+					"zept.Z = ",
+					"isZ",
+					"this.foreach",
+					"zepto.matches",
+					"zepto.Z(",
+					"can be overridden",
+					"zepto.matches",
+					"new Z(",
+					"zepto.Z(",
+					"classCache",
+					"file",
+					"e",
+					"remove",
+					"	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n",
 					"font",
 					"li",
 					"			<li>\n				<div><img src=\"images/chenzz.jpg\" height=\"196\" width=\"196\"></div>\n				<div>\n					<h3>陈作智</h3>\n					<h4>创始人兼<em>CEO</em></h4>\n					<p>硕士毕业，创业成瘾，运筹帷幄，任亚信思华科技有限公司副总裁，参与研发亚信大容量电子邮件系统(AIMC)，创造1亿收入。<p>\n				</div>\n			</li>\n",
@@ -650,14 +934,106 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/E/file/repo/oadaM92-blog/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 123,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"bs_sintax": "markdown",
+									"buffer_scroll_name": "d82950fa",
+									"spell_check": false,
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 70.0
 			},
 			"input":
 			{
@@ -686,13 +1062,21 @@
 				]
 			},
 			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 311.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.git":
+			{
+				"height": 138.0
+			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,712,145,23,1156",
-			"project": "wap.sublime-project",
+			"position": "0,0,1,-1,-1,-1,-1,737,50,27,1169",
+			"project": "repo.sublime-project",
 			"replace":
 			{
 				"height": 46.0
@@ -705,12 +1089,28 @@
 				"selected_items":
 				[
 					[
-						"message.html",
-						"protected\\views\\UIcomponents\\message.html"
+						"zepto.js",
+						"zepto\\src\\zepto.js"
+					],
+					[
+						"js/index.js",
+						"my-projects\\01.19(yc)可视化专题生成器\\可视化专题生成器\\js\\index.js"
+					],
+					[
+						"",
+						"json.json"
 					],
 					[
 						"message.js",
 						"static_wap\\js\\page\\message\\message.js"
+					],
+					[
+						"message.css",
+						"css\\source\\all-message.css"
+					],
+					[
+						"message.html",
+						"protected\\views\\UIcomponents\\message.html"
 					],
 					[
 						"edit.js",
@@ -735,10 +1135,6 @@
 					[
 						"thfamily.html",
 						"protected\\views\\cooperation\\thfamily.html"
-					],
-					[
-						"",
-						"protected\\views\\cooperation\\thsuccess.html"
 					],
 					[
 						"thsucce",
@@ -833,23 +1229,28 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 144.0,
+			"side_bar_width": 214.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 38,
-			"workspace_name": "/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/wap.sublime-workspace"
+			"window_id": 57,
+			"workspace_name": "/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/repo.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/repo.sublime-workspace",
 			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/wap.sublime-workspace",
+			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/basket.sublime-workspace",
+			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/test.sublime-workspace",
+			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/zepto.sublime-workspace",
+			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/JavaScript设计模式.sublime-workspace",
 			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/guanli.sublime-workspace",
-			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/web.sublime-workspace",
 			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/程序更新.sublime-workspace",
+			"/C/Users/oadaM92/AppData/Roaming/Sublime Text 3/Packages/User/Projects/web.sublime-workspace",
 			"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Projects/guanli.sublime-workspace",
 			"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Projects/web.sublime-workspace",
 			"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Projects/wap.sublime-workspace",

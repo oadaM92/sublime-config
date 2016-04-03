@@ -1,0 +1,12 @@
+{
+	"shell_cmd": "taskkill /F /IM node.exe & node \"$file\"",
+	"cmd": ["node", "$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.js",
+	"variants": [
+	  { "name": "Kill Node.exe",
+			"cmd": ["taskkill", "/F", "/IM", "node.exe"],
+			"shell": true
+		  }
+	]
+  }
